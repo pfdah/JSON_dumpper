@@ -1,8 +1,8 @@
 import json
 import os
 
-inputs_loc = 'Your Input folder location here'
-output_loc = 'Your Output location here'
+inputs_loc = 'Your Input folder location/path here'
+output_loc = 'Your Output location/path here'
 
 if __name__ == '__main__':
     input_indt = int(input("Enter the indentation\n"))
